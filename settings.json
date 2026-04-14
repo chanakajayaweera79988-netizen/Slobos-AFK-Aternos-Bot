@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Antrix_SMP.aternos.me:24567",
+    "ip": Antrix_SMP.aternos.me:24567,
     "port": 24567,
     "version": "",
     "try-creative": false
@@ -70,7 +70,7 @@
   },
   "beds": {
     "pick-up-day": false,
-    "place-night": false
+    "place-night": true
   },
   "discord": {
     "enabled": false,
